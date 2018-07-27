@@ -35,7 +35,7 @@ class AdherentService
 				return " Aucun adhérent n’est présent ";						
 			}	
 		}
-		throw new NotFoundHttpException('Le fichier d’entrée est introuvable');		
+		throw new NotFoundHttpException('Le fichier d’entrée est introuvable dans votre rep de travail');		
 	}
 
 
