@@ -1,0 +1,12 @@
+5967e1,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/adherents/3,1532273222,bbc2d9,404
+bbc2d9,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/adherents/3,1532273222,,404
+7d007f,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api/adherents/3,1532273265,,200
+19a37c,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api/doc,1532273306,,200
+d50a02,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api/doc,1532273478,,200
+9f1c36,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api_adherents/web/app_dev.php/api/adherents/3,1532273494,6145c2,404
+6145c2,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api_adherents/web/app_dev.php/api/adherents/3,1532273494,,404
+20bf21,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api_adherents/web/app_dev.php/api/adherents/1,1532273567,926c15,404
+926c15,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api_adherents/web/app_dev.php/api/adherents/1,1532273567,,404
+aacfb0,127.0.0.1,GET,http://127.0.0.1/api_adherents/web/app_dev.php/api/doc,1532273687,,200
+ccb38b,127.0.0.1,GET,http://127.0.0.1//api_adherents/web/app_dev.php/api/adherents/1,1532273698,,200
+055ec0,127.0.0.1,GET,http://127.0.0.1//api_adherents/web/app_dev.php/api/adherents/1,1532274276,,200
