@@ -23,7 +23,7 @@ class AdherentService
 				return $data;
 			}
 		}
-		return "Aucun adhérent ne correspond à votre demande";				
+		return "Aucun adhérent ne correspond à votre demande  identifiant introuvable dans le fichier csv!!";				
 	}
 
 	public function getAdherents()
